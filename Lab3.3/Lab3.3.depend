@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1702042382 source:e:\but1\s1\r101-initdev2\lab3.3\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"apartment.h"
+	"room.h"
+
+1702035238 e:\but1\s1\r101-initdev2\lab3.3\apartment.h
+	<iostream>
+	<string>
+	<vector>
+	"room.h"
+
+1702035750 e:\but1\s1\r101-initdev2\lab3.3\room.h
+	<iostream>
+	<string>
+	<vector>
+
+1702035780 source:e:\but1\s1\r101-initdev2\lab3.3\room.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	<vector>
+	<fstream>
+	"apartment.h"
+	"room.h"
+
+1702041696 source:e:\but1\s1\r101-initdev2\lab3.3\apartment.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	<vector>
+	<fstream>
+	"apartment.h"
+	"room.h"
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1702651444 source:e:\but1\s1\r101-initdev2\lab4\main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	"rat.h"
+
+1702649622 e:\but1\s1\r101-initdev2\lab4\rat.h
+	<iostream>
+	<cstdlib>
+
+1702651324 source:e:\but1\s1\r101-initdev2\lab4\rat.cpp
+	<iostream>
+	<stdexcept>
+	"rat.h"
+

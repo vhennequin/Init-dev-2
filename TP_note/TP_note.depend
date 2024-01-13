@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1702021786 source:d:\but1\s1\r101-initdev2\tp_note\cadeau.cpp
+	"cadeau.h"
+
+1702021786 d:\but1\s1\r101-initdev2\tp_note\cadeau.h
+	<iostream>
+	<string>
+	<vector>
+
+1702023504 source:d:\but1\s1\r101-initdev2\tp_note\enfant.cpp
+	"cadeau.h"
+	"enfant.h"
+	<vector>
+
+1702022980 d:\but1\s1\r101-initdev2\tp_note\enfant.h
+	<vector>
+
+1702026316 source:d:\but1\s1\r101-initdev2\tp_note\mainnoel.cpp
+	"cadeau.h"
+	"enfant.h"
+	"pereNoel.h"
+	<iostream>
+	<vector>
+
+1702026130 source:d:\but1\s1\r101-initdev2\tp_note\perenoel.cpp
+	"cadeau.h"
+	"enfant.h"
+	"pereNoel.h"
+
+1702023950 d:\but1\s1\r101-initdev2\tp_note\perenoel.h
+	"enfant.h"
+	"cadeau.h"
+

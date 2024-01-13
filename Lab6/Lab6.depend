@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1705060338 source:e:\but1\s1\r101-initdev2\lab6\main.cpp
+	<iostream>
+	<string>
+	<random>
+	<ctime>
+	"chocolate.h"
+	"chocolatebox.h"
+
+1705051610 e:\but1\s1\r101-initdev2\lab6\chocolate.h
+	<iostream>
+	<string>
+
+1705051664 source:e:\but1\s1\r101-initdev2\lab6\chocolate.cpp
+	<iostream>
+	<string>
+	<random>
+	"chocolate.h"
+
+1705060388 source:e:\but1\s1\r101-initdev2\lab6\chocolatebox.cpp
+	<iostream>
+	<string>
+	<random>
+	<vector>
+	"chocolate.h"
+	"chocolatebox.h"
+
+1705059292 e:\but1\s1\r101-initdev2\lab6\chocolatebox.h
+	<iostream>
+	<string>
+	<vector>
+	"chocolate.h"
+

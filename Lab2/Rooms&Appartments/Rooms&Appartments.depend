@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1701430834 source:e:\but1\s1\r101-initdev2\lab2\rooms&appartments\appartment.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	<vector>
+	"appartment.h"
+	"room.h"
+
+1701430592 e:\but1\s1\r101-initdev2\lab2\rooms&appartments\appartment.h
+	<iostream>
+	<string>
+	<vector>
+	"room.h"
+
+1701775006 source:e:\but1\s1\r101-initdev2\lab2\rooms&appartments\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"apartment.h"
+	"room.h"
+
+1701774750 e:\but1\s1\r101-initdev2\lab2\rooms&appartments\room.h
+	<iostream>
+	<string>
+	<vector>
+
+1701774816 source:e:\but1\s1\r101-initdev2\lab2\rooms&appartments\room.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	<vector>
+	<fstream>
+	"apartment.h"
+	"room.h"
+
+1701775826 source:e:\but1\s1\r101-initdev2\lab2\rooms&appartments\apartment.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	<vector>
+	<fstream>
+	"apartment.h"
+	"room.h"
+
+1701775162 e:\but1\s1\r101-initdev2\lab2\rooms&appartments\apartment.h
+	<iostream>
+	<string>
+	<vector>
+	"room.h"
+
+1701775006 source:d:\but1\s1\r101-initdev2\lab2\rooms&appartments\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"apartment.h"
+	"room.h"
+
+1701775162 d:\but1\s1\r101-initdev2\lab2\rooms&appartments\apartment.h
+	<iostream>
+	<string>
+	<vector>
+	"room.h"
+
+1701774750 d:\but1\s1\r101-initdev2\lab2\rooms&appartments\room.h
+	<iostream>
+	<string>
+	<vector>
+
+1701774816 source:d:\but1\s1\r101-initdev2\lab2\rooms&appartments\room.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	<vector>
+	<fstream>
+	"apartment.h"
+	"room.h"
+
+1701775826 source:d:\but1\s1\r101-initdev2\lab2\rooms&appartments\apartment.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	<vector>
+	<fstream>
+	"apartment.h"
+	"room.h"
+

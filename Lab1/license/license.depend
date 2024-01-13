@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1700757194 source:e:\copie z sidious\s1\r101-initdev2\lab1\license\main.cpp
+	<string>
+	<iostream>
+	<vector>
+	<stdexcept>
+	"license.h"
+
+1700757362 e:\copie z sidious\s1\r101-initdev2\lab1\license\license.h
+	<string>
+
+1700757612 source:e:\copie z sidious\s1\r101-initdev2\lab1\license\license.cpp
+	<string>
+	<iostream>
+	<stdexcept>
+	"license.h"
+
+1700822854 source:d:\copie z sidious\s1\r101-initdev2\lab1\license\license.cpp
+	<string>
+	<iostream>
+	<stdexcept>
+	"license.h"
+
+1700822824 d:\copie z sidious\s1\r101-initdev2\lab1\license\license.h
+	<string>
+
+1700824790 source:d:\copie z sidious\s1\r101-initdev2\lab1\license\main.cpp
+	<string>
+	<iostream>
+	<vector>
+	<stdexcept>
+	"license.h"
+
+1700834084 source:d:\but1\s1\r101-initdev2\lab1\license\license.cpp
+	<string>
+	<iostream>
+	<stdexcept>
+	"license.h"
+
+1700833644 d:\but1\s1\r101-initdev2\lab1\license\license.h
+	<string>
+
+1700834286 source:d:\but1\s1\r101-initdev2\lab1\license\main.cpp
+	<string>
+	<iostream>
+	<vector>
+	<stdexcept>
+	"license.h"
+
+1700834294 source:e:\but1\s1\r101-initdev2\lab1\license\license.cpp
+	<string>
+	<iostream>
+	<stdexcept>
+	"license.h"
+
+1700833644 e:\but1\s1\r101-initdev2\lab1\license\license.h
+	<string>
+
+1700836544 source:e:\but1\s1\r101-initdev2\lab1\license\main.cpp
+	<string>
+	<iostream>
+	<vector>
+	<stdexcept>
+	"license.h"
+
